@@ -51,6 +51,8 @@ This repository contains a **Google Colab notebook** that demonstrates **text-dr
 - `README.md` — this file.
 
 ---
+### Text-driven segmentation pipeline diagram
+![Text-driven segmentation pipeline diagram]()
 
 ## Pipeline Overview
 1. **Load an image** — either a sample image or user-uploaded.  
