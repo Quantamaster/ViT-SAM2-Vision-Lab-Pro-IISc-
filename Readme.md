@@ -52,7 +52,7 @@ This repository contains a **Google Colab notebook** that demonstrates **text-dr
 
 ---
 ### Text-driven segmentation pipeline diagram
-![Text-driven segmentation pipeline diagram]()
+![Text-driven segmentation pipeline diagram](https://github.com/Quantamaster/ViT-SAM2-Vision-Lab-Pro-IISc-/blob/main/Text-driven%20segmentation%20pipeline%20diagram.png)
 
 ## Pipeline Overview
 1. **Load an image** — either a sample image or user-uploaded.  
